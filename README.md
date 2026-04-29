@@ -1,6 +1,6 @@
 # mgDrop
 
-<img width="1254" height="1254" alt="mgdrop-logopng" src="https://github.com/user-attachments/assets/4c430863-90d7-4ce2-b9d1-bd762f65d3bb" />
+<img width="250" height="250" alt="mgdrop-logopng" src="https://github.com/user-attachments/assets/4c430863-90d7-4ce2-b9d1-bd762f65d3bb" />
 
 Transferencia de archivos por LAN/WiFi, simple y directa.
 
