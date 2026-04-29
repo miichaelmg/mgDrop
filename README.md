@@ -47,6 +47,8 @@ Instala Microsoft Visual C++ Redistributable (x64):
 
 [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
+VC_redist.x64.exe
+
 Despues, vuelve a abrir `mgDrop`.
 
 ## Opcion de seguridad
