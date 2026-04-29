@@ -1,5 +1,7 @@
 # mgDrop
 
+<img width="1254" height="1254" alt="mgdrop-logopng" src="https://github.com/user-attachments/assets/4c430863-90d7-4ce2-b9d1-bd762f65d3bb" />
+
 Transferencia de archivos por LAN/WiFi, simple y directa.
 
 ## Que es
@@ -65,3 +67,6 @@ antes de guardar el archivo.
 Creado por **Michael MG (GATI - TRC)**.
 
 Hecho en Rust.
+
+<img width="1287" height="785" alt="sc01" src="https://github.com/user-attachments/assets/2f56446a-359a-4b56-b332-88f785b08717" />
+
