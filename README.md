@@ -70,3 +70,6 @@ Hecho en Rust.
 
 <img width="1287" height="785" alt="sc01" src="https://github.com/user-attachments/assets/2f56446a-359a-4b56-b332-88f785b08717" />
 
+## Tecnologías Utilizadas
+- Rust
+- VS Code
