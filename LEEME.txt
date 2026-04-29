@@ -1,0 +1,37 @@
+mgDrop - Enviar archivos por WiFi/LAN
+
+Que hace:
+- Envia archivos de un PC a otro dentro de la misma red.
+- No hace falta internet, solo estar en el mismo WiFi o cable.
+
+Guia rapida (1 minuto):
+1) Abre mgDrop en los 2 equipos.
+2) En el equipo que VA A RECIBIR, mira "Tu IP local".
+3) En el equipo que VA A ENVIAR, escribe esa IP en "IP DESTINO".
+4) Pulsa "Seleccionar archivo".
+5) Elige el archivo y pulsa "Enviar".
+6) Listo. Veras el progreso y el tiempo restante.
+
+Donde se guardan los archivos:
+- En: Descargas/mgDrop
+- Puedes abrirla desde el boton "Abrir carpeta de recepcion".
+
+Si te sale ventana de Firewall de Windows:
+- Pulsa "Permitir acceso".
+- Si no permites, normalmente no podras recibir archivos.
+
+Si no funciona:
+1) Comprueba que ambos equipos estan en la misma red.
+2) Revisa que la IP destino esta bien escrita.
+3) Si hay antivirus corporativo, puede bloquear conexiones LAN.
+
+Si aparece error "VCRUNTIME140.dll":
+1) Instala Microsoft Visual C++ Redistributable (x64) proporcionado en el archivo .ZIP :
+   VC_redist.x64.exe 
+2) Reinicia mgDrop.
+
+Nota:
+- Si activas "Preguntar antes de recibir archivos", saldra aceptar/rechazar antes de guardar.
+
+Hecho en Rust.
+Creado por Michael MG (GATI - TRC) , Teruel 2026
